@@ -16,7 +16,10 @@ body {
 a {
   color: #1acc8d;
 }
-
+button {
+  margin:auto;
+  display:block;
+}
 a:hover {
   color: #34e5a6;
   text-decoration: none;
